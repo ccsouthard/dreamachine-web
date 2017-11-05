@@ -24,3 +24,5 @@ close_menu = "CLOSE"
 show_menu = "MENU"
 [params.warning]
 text = "PLEASE NOTE: THIS CAN CAUSE PHOTO EPILEPSY IN SOME PEOPLE (1/10,000)"
+[params.copyright]
+text = "DreamMachine.co © 2017."
