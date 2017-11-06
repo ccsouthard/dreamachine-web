@@ -1,0 +1,16 @@
+.text__columns
+  display: flex
+  flex-flow: row wrap
+  margin-left: -15px
+  margin-right: -15px
+  &--2
+    .text__columns__column
+      width: 50%
+  &--3
+    .text__columns__column
+      width: calc(100% / 3)
+  &--4
+    .text__columns__column
+      width: 25%
+  &__column
+    padding: 0px 15px
