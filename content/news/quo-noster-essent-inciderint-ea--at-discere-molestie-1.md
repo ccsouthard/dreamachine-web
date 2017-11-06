@@ -49,7 +49,13 @@ Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi conclu
 
 {{< column >}} 
 
-saassa
+Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
+
+{{< /column >}}
+
+{{< column >}} 
+
+Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
 
 {{< /column >}}
 
