@@ -47,6 +47,10 @@ Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi conclu
 
 {{< column-wrapper >}}
 
+{{% column %}} 
+
 saassa
+
+{{% /column %}}
 
 {{<  /column-wrapper >}}
