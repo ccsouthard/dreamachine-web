@@ -1,4 +1,4 @@
-baseURL = "https://dream-machine.netlify.com"
+baseURL = "https://cashier-ostritch-43587.netlify.com"
 enableRobotsTXT = true
 languageCode = "en-us"
 theme = "dream-machine"
