@@ -14,3 +14,36 @@
       width: 25%
   &__column
     padding: 0px 15px
+@media screen and (max-width: 1000px)
+  .text__columns
+    &--2
+      .text__columns__column
+        width: 50%
+    &--3
+      .text__columns__column
+        width: calc(100% / 3)
+    &--4
+      .text__columns__column
+        width: calc(100% / 3)
+@media screen and (max-width: 860px)
+  .text__columns
+    &--2
+      .text__columns__column
+        width: 50%
+    &--3
+      .text__columns__column
+        width: calc(100% / 2)
+    &--4
+      .text__columns__column
+        width: calc(100% / 2)
+@media screen and (max-width: 768px)
+  .text__columns
+    &--2
+      .text__columns__column
+        width: 100%
+    &--3
+      .text__columns__column
+        width: 100%
+    &--4
+      .text__columns__column
+        width: 100%
