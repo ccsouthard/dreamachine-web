@@ -45,18 +45,18 @@ Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi conclu
 
 Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
 
-{{< column-wrapper "2" >}}
+{{% column-wrapper %}}
 
-{{<column>}}
-
-Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
-
-{{</column>}}
-
-{{<column>}}
+{{%column %}}
 
 Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
 
-{{</column>}}
+{{%/column%}}
 
-{{< /column-wrapper >}}
+{{%column%}}
+
+Lorem ipsum dolor sit amet, in vix malis fierent corrumpit, at nec quodsi concludaturque. In per viderer signiferumque. Ex graeco democritum duo, ad mea enim noster accusamus. Ne sed eros veri. Illud sententiae scribentur mei an. Ei pro discere nonumes consectetuer. Dicam soluta scaevola ius at.
+
+{{%/column%}}
+
+{{%  /column-wrapper %}}
