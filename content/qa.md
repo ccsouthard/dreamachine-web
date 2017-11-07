@@ -44,7 +44,7 @@ item = "Sit quietly for five minutes; follow your breathing, thoughts, emotions,
 description = "Pulsing light alters our brain’s natural electrical frequencies and our brain begins to mimic this frequency (Landgraf, 2003). This is called brain entrainment. The entrainment principal is the tendency for any two oscillating bodies to synchronize.<br><br>When our closed eyes receive 10 flickers per second, the optic nerve triggers signals in the cortical region to induce Alpha waves."
 title = "How does the dream machine work?"
 [[qa_left_column]]
-description = "The hypnagogic state and is defined as the place the mind travels between sleeping and ordinary consciousness.Some artists believe that the dreamachine helps to rearrange patterns of the unconscious mind and bring the practitioner to a place between memory and pure consciousness.<br><br>This region of consciousness has been referred to in the writings from Aristotle to Edgar Allan Poe."
+description = "There are three states of consciousness; wakefulness, sleeping and dreaming.<br><br>Hypnagogia is the state between wakefulness and dreaming. Many artists have utilized hypnagogic consciousness from Nostradamus, Edison, Dali, Purkinje to Paul McCartney. &nbsp;<span class=\"Apple-converted-space\">&nbsp;</span>"
 title = "What are the stages of consciousness?"
 [[qa_left_column]]
 description = "The hypnagogic state and is defined as the place the mind travels between sleeping and ordinary consciousness.Some artists believe that the dreamachine helps to rearrange patterns of the unconscious mind and bring the practitioner to a place between memory and pure consciousness.<br><br>This region of consciousness has been referred to in the writings from Aristotle to Edgar Allan Poe."
