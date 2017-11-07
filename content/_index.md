@@ -1,5 +1,5 @@
 ---
-title: DreamMachine - Home
+title: 'Home | DreamMachine '
 slug: ''
 activeLanguage: en
 type: home-page
