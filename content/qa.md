@@ -59,7 +59,7 @@ title = "What are the different type of brain waves?"
 description = "A mind machine combines the effect of photic stimulation and sound. Using brain entrainment to help solve problems, relax, enhance creativity and expand imagination through unconscious pathways. <br><br>The dreamachine uses brain entrainment to bring you to a meditative state without effort."
 title = "What does a mind machine do?"
 [[qa_left_column]]
-description = "The hypnagogic state and is defined as the place the mind travels between sleeping and ordinary consciousness.Some artists believe that the dreamachine helps to rearrange patterns of the unconscious mind and bring the practitioner to a place between memory and pure consciousness.<br><br>This region of consciousness has been referred to in the writings from Aristotle to Edgar Allan Poe."
+description = "Our eyes have developed specialized receptors located in the retina. They are called ganglion cells and they are very sensitive to the color blue. <span class=\"Apple-converted-space\">&nbsp; &nbsp;<br><br></span>The color blue is associated with feelings of calm. This is because when we look at the color blue, our ganglion cells decrease blood pressure, heart rate and create a natural relaxation.<span class=\"Apple-converted-space\">&nbsp;</span>"
 title = "Why App uses Blue?"
 [[qa_right_column]]
 description = "The hypnagogic state and is defined as the place the mind travels between sleeping and ordinary consciousness.Some artists believe that the dreamachine helps to rearrange patterns of the unconscious mind and bring the practitioner to a place between memory and pure consciousness.<br><br>This region of consciousness has been referred to in the writings from Aristotle to Edgar Allan Poe."
