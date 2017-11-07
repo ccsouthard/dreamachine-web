@@ -63,7 +63,7 @@ description = "Our eyes have developed specialized receptors located in the reti
 title = "Why App uses Blue?"
 [[qa_right_column]]
 description = "Artists believe that the Dreamachine rearranges patterns of the unconscious mind and brings the viewer to a state between memory and pure consciousness.<br><br>-<span class=\"Apple-converted-space\">&nbsp; </span>Roman mathematician and astronomer Ptolemy<br>-<span class=\"Apple-converted-space\">&nbsp; </span>The French visionary Nostradamus<br>-<span class=\"Apple-converted-space\">&nbsp; </span>Czech physician and physiologist, Jan E. Purkinje<br>-<span class=\"Apple-converted-space\">&nbsp; </span>Neurophysiologist Dr. W. Grey Walter<br>-<span class=\"Apple-converted-space\">&nbsp; </span>Notable artists Brian Jones, Paul McCartney, Kurt Cobain, Allen Ginsberg and William S. Burroughs<br>"
-title = "Who has used the dreamachine or alpha and hypnagogic states?"
+title = "Who has used the Dreamachine or alpha and hypnagogic states?"
 [[qa_right_column]]
 description = "Mindful meditation is the conscious practice of attending to our breathing. The mind during mindfulness meditation is aware of its flashing thought process; whether we notice our waves of breath, the space between sound and silence or the distinction between sensation and numbness.<span class=\"Apple-converted-space\">&nbsp; &nbsp;</span><br><br>These mental aggregates or mind manifestations are all composed of an action or non-action, an on and an off switch, an inhalation and an exhalation, a stimulus and response."
 title = "What is mindfulness meditation?"
