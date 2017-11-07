@@ -34,7 +34,7 @@ how_it_works:
   video_tab:
     title: Watch video
     video_link: https://www.youtube.com/embed/4arXq4sXTLc
-    enable_video: true
+    enable_video: false
 benefits:
   title: BENEFITS
   list_of_benefits:
