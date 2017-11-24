@@ -7,9 +7,6 @@ type = "experiences"
 name = "EXPERIENCES"
 weight = 5
 [[left_column]]
-author = "TEST"
-quote = "TEST"
-[[left_column]]
 author = "BRYON GYSIN"
 image = "/uploads/2017/11/02/bryon-gysin.jpg"
 quote = " “Vision start with a kaleidoscope of colors on a plane in front of the eyes and gradually become more complex and beautiful, looking like the surf on the shore until whole patterns of color are pounding to get in. After a while the visions were permanently behind my eyes and I was in the middle of the whole scene with limitless patterns generated around me. ”"
@@ -49,6 +46,9 @@ quote = "The French visionary Nostradamus used flickering light to induce his ps
 author = "WILLIAM GREY WALTER"
 image = "/uploads/2017/11/24/william-grey-walter-small.jpg"
 quote = " \"Flicker proved to be a key to many doors...the sense of having been pushed sideways in time by flicker. Yesterday was no longer behind, and tomorrow was no longer ahead.\" "
+[[left_column]]
+author = "TEST"
+quote = "TEST"
 [[right_column]]
 author = "WILLIAM BURROUGHS"
 image = "/uploads/2017/11/02/william-burroughs.jpg"
