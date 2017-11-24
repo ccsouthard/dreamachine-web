@@ -26,6 +26,10 @@ quote = "Utilized the Dreamachine during the conception and production of the al
 author = "ALLEN GINSBERG"
 image = "/uploads/2017/11/02/alen-ginsberg.jpg"
 quote = "“I looked into it – it sets up optical fields as religious and mandalic as the hallucinogenic drugs – it’s like being able to have jeweled Biblical designs and landscapes without taking chemicals.”"
+[[left_column]]
+author = "BRIAN JONES"
+image = "/uploads/2017/11/24/Brian-Jones-small.jpg"
+quote = "Brian Jones of the Rolling Stones were fascinated by the trance music made by the Jajoukas in Morocco.  Jones and the Rolling Stones frequented the Brion Gysin’s flat and experimented with the Dreamachine. "
 [[right_column]]
 author = "WILLIAM BURROUGHS"
 image = "/uploads/2017/11/02/william-burroughs.jpg"
