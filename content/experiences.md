@@ -77,5 +77,9 @@ quote = "If you want to find the secrets of the universe, think in terms of ener
 author = "PURKINJE"
 image = "/uploads/2017/11/24/purkinje-small.jpg"
 quote = "\"I stand in the bright sunlight with closed eyes and face the sun. Then I move my outstretched, somewhat separated, fingers up and down in front of the eyes, so that they are alternately illuminated and shaded. In addition to the uniform yellow-red that one expects with closed eyes, there appear beautiful regular figures that are initially difficult to define slowly become clearer.\""
+[[right_column]]
+author = "TIMOTHY LEARY"
+image = "/uploads/2017/11/24/timothy-leary-small.jpg"
+quote = "\"The most sophisticated neurophenomenological device ever designed.\""
 
 +++
