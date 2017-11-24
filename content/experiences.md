@@ -45,6 +45,10 @@ quote = "Flicker proved to be a key to many doors. We used it for us as a clinic
 author = "NOSTRADAMUS"
 image = "/uploads/2017/11/24/nostradamus-small.jpg"
 quote = "The French visionary Nostradamus used flickering light to induce his psychic powers. There are legends that describe Nostradamus sat inside a tower gazing directly into the sun and simultaneously moved his fingers quickly over his eyelids."
+[[left_column]]
+author = "WILLIAM GREY WALTER"
+image = "/uploads/2017/11/24/william-grey-walter-small.jpg"
+quote = " \"Flicker proved to be a key to many doors...the sense of having been pushed sideways in time by flicker. Yesterday was no longer behind, and tomorrow was no longer ahead.\" "
 [[right_column]]
 author = "WILLIAM BURROUGHS"
 image = "/uploads/2017/11/02/william-burroughs.jpg"
