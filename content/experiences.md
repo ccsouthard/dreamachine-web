@@ -30,6 +30,10 @@ quote = "“I looked into it – it sets up optical fields as religious and mand
 author = "BRIAN JONES"
 image = "/uploads/2017/11/24/Brian-Jones-small.jpg"
 quote = "Brian Jones of the Rolling Stones were fascinated by the trance music made by the Jajoukas in Morocco.  Jones and the Rolling Stones frequented the Brion Gysin’s flat and experimented with the Dreamachine. "
+[[left_column]]
+author = "JOHN ZORN"
+image = "/uploads/2017/11/24/john-zorn.jpg"
+quote = "John Zorn’s music utilizes aspects of non-musical art forms. He often incorporates non-linear narratives, esoteric techniques and titled a recent album 'Dreamachines'. This album pays homage to the original invention."
 [[right_column]]
 author = "WILLIAM BURROUGHS"
 image = "/uploads/2017/11/02/william-burroughs.jpg"
