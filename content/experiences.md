@@ -54,5 +54,9 @@ quote = "Lights like comets dangled before me, slow at first and then gaining a 
 author = "BRYON GYSIN"
 image = "/uploads/2017/11/02/bryon-gysin.jpg"
 quote = "\n“Vision start with a kaleidoscope of colors on a plane in front of the eyes and gradually become more complex and beautiful, looking like the surf on the shore until whole patterns of color are pounding to get in. After a while the visions were permanently behind my eyes and I was in the middle of the whole scene with limitless patterns generated around me. ”"
+[[right_column]]
+author = "ALDOUS HUXLEY"
+image = "/uploads/2017/11/24/Aldous_Huxley_small2.png"
+quote = "\"...an arrangement of electrical impulses interpretable as a living, self-modulating Japanese landscape unlike anything the subject has ever seen, suffused with preternatural light and color and charged with preternatural significance.  The patterns become shapes and symbols…swirling around, until the user feels surrounded by colors. "
 
 +++
