@@ -7,6 +7,10 @@ type = "experiences"
 name = "EXPERIENCES"
 weight = 5
 [[left_column]]
+author = "NOSTRADAMUS"
+image = "/uploads/2017/11/24/nostradamus-small.jpg"
+quote = "The French visionary Nostradamus used flickering light to induce his psychic powers. There are legends that describe Nostradamus sat inside a tower gazing directly into the sun and simultaneously moved his fingers quickly over his eyelids."
+[[left_column]]
 author = "BRYON GYSIN"
 image = "/uploads/2017/11/02/bryon-gysin.jpg"
 quote = " “Vision start with a kaleidoscope of colors on a plane in front of the eyes and gradually become more complex and beautiful, looking like the surf on the shore until whole patterns of color are pounding to get in. After a while the visions were permanently behind my eyes and I was in the middle of the whole scene with limitless patterns generated around me. ”"
