@@ -58,5 +58,9 @@ quote = "\n“Vision start with a kaleidoscope of colors on a plane in front of 
 author = "ALDOUS HUXLEY"
 image = "/uploads/2017/11/24/Aldous_Huxley_small2.png"
 quote = "\"...an arrangement of electrical impulses interpretable as a living, self-modulating Japanese landscape unlike anything the subject has ever seen, suffused with preternatural light and color and charged with preternatural significance.  The patterns become shapes and symbols…swirling around, until the user feels surrounded by colors. "
+[[right_column]]
+author = "NIKOLA TESLA"
+image = "/uploads/2017/11/24/tesla-smal.jpg"
+quote = "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 
 +++
