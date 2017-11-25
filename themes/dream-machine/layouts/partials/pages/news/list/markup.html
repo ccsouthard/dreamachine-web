@@ -13,7 +13,7 @@
         <img src="{{.Params.preview_image}}" alt="{{.Title}}">
       </div>
       <div class="newsList__item__shortDescription">
-        <p>{{.Params.short_description | saveHTML}}</p>
+        <p>{{.Params.short_description | safeHTML}}</p>
         <div class="newsList__item__readMore">
           <a href="{{.Permalink}}">{{$page.read_more}}</a>
         </div>
