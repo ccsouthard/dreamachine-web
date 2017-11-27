@@ -1,4 +1,4 @@
-baseURL = "https://cashier-ostritch-43587.netlify.com"
+baseURL = "https://www.dreamachine.co"
 enableRobotsTXT = true
 languageCode = "en-us"
 theme = "dream-machine"
@@ -11,7 +11,7 @@ link = "https://itunes.apple.com/us/app/dreamachine-the-key-to-creativity/id1229
 email = "animal57co@gmail.com"
 text = "Contact us"
 [params.social_networks]
-facebook = "//www.facebook.com/mydreamachine/"
+facebook = "//www.facebook.com/dreamachine9/"
 instagram = "//www.instagram.com/dreamachine_9/"
 twitter = "//twitter.com/dreamachine_9"
 [params.subscription]
